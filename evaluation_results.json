@@ -1,0 +1,12 @@
+{
+  "baseline_accuracy": 0.5333,
+  "finetuned_accuracy": 0.7333,
+  "improvement": 0.2,
+  "test_set_size": 45,
+  "label_map": {
+    "Substantive / Analytical": 0,
+    "Partisan / Emotional": 1,
+    "Low-Effort / Noise": 2
+  },
+  "model": "distilbert-base-uncased"
+}
